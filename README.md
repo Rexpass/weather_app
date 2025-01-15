@@ -1,16 +1,37 @@
 # weather_app
 
-A new Flutter project.
+<img width="2396" alt="Frame 7" src="https://github.com/user-attachments/assets/c306c41a-e1b8-4cfa-bb54-ebbe5fffcef3" />
+
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Before you begin, ensure you have met the following requirements:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- You have installed [Flutter](https://flutter.dev/docs/get-started/install) on your machine.
+- You have a code editor like [Visual Studio Code](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio).
+- You have an emulator or a physical device to run the application.
+
+### Installation
+
+1. **Clone the repository:**
+
+   ```sh
+   git clone https://github.com/Rexpass/weather_app.git
+   cd weather_app
+   ```
+
+2. **Install dependencies:**
+
+   ```sh
+   flutter pub get
+   ```
+
+3. **Run the application:**
+
+   ```sh
+   flutter run
+   ```
