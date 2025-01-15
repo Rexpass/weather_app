@@ -24,7 +24,7 @@ class _HomeScreenState extends State<HomeScreen> {
     }
 
     const apiKey =
-        '776e9807d84de642edb7334f954ef264'; // Replace 'YOUR_API_KEY' with your actual API key.
+        'Replace with your actual API key'; 
     final url =
         'https://api.openweathermap.org/data/2.5/weather?q=$city&appid=$apiKey&units=metric';
 
